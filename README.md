@@ -2,8 +2,8 @@ George
 
 
 
-Peer Reviewed By: 
-Peer Review: 
+Peer Reviewed By: Ashur
+Peer Review: the app was able to fetch the data on load and search; but the iconse sometimes wouldn't load; there is no favorites; the line graph does not populate with data.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
