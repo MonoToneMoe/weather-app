@@ -1,7 +1,7 @@
 George
-
-
-
+3/31/2024
+Weather App Rebuild
+this was an atempt at recreating the weather app I made back in level one. I'm gonna keep working on this even after submitting this, it is not in a good state at the moment of writing this.
 Peer Reviewed By: Ashur
 Peer Review: the app was able to fetch the data on load and search; but the iconse sometimes wouldn't load; there is no favorites; the line graph does not populate with data.
 
